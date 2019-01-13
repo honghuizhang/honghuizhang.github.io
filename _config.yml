@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Honghui Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""
   location         : "Shen Zhen, China"
-  employer         :
+  employer         : DJI
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "zhhsmail@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
