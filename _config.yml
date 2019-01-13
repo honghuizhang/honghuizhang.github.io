@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Honghui Zhang / Site Title"
+title                    : "Honghui Zhang"
 title_separator          : "-"
 name                     : &name "Dr. Honghui Zhang"
 description              : &description "personal description"
